@@ -5,8 +5,8 @@
 
 - Train accuracy: 96%
 - Test accuracy: 89%
-![loss_loss](https://user-images.githubusercontent.com/37296965/87218151-147f9f00-c38b-11ea-98ac-7d21deeaf3c6.jpeg)
 
+![loss_loss](https://user-images.githubusercontent.com/37296965/87218151-147f9f00-c38b-11ea-98ac-7d21deeaf3c6.jpeg)
 ![accuracy_loss](https://user-images.githubusercontent.com/37296965/87218152-16496280-c38b-11ea-8fb3-008c12f58859.jpeg)
 #### Requirements
 
